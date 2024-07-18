@@ -11,9 +11,7 @@ pip instaal tkinter
 pip install kivymd 
 pip install PyPDF2
 
-![Screenshot (923)](https://github.com/user-attachments/assets/9d8cc9bf-648e-4fbe-93af-520cbc46d69d)
-![Screenshot (922)](https://github.com/user-attachments/assets/c7572127-19e0-4491-afde-5fa31417afea)
-![Screenshot (924)](https://github.com/user-attachments/assets/d50b27b3-e163-4661-ae61-909f0952a21f)
+![Screenshot (923)](https://github.com/user-attachments/assets/9d8cc9bf-648e-4fbe-93af-520cbc46d69d) ![Screenshot (922)](https://github.com/userattachments/assets/c7572127-19e0-4491-afde-5fa31417afea) ![Screenshot (924)](https://github.com/user-attachments/assets/d50b27b3-e163-4661-ae61-909f0952a21f)
 
 Select File: This button allows you to browse and select a PDF file you want to split.
 
