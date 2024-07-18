@@ -1,17 +1,32 @@
 # PDFSpitter-
-This program is a Python GUI application designed to split PDF documents. It uses the Kivy framework to create a user-friendly interface and the PyPDF2 library to handle the PDF manipulation.  Here's a breakdown of the functionalities: 
+This program is a Python GUI application designed to split PDF documents. It uses the Kivy framework to create a user-friendly interface and the 
+
+PyPDF2 library to handle the PDF manipulation.  Here's a breakdown of the functionalities: 
+
 The program uses the PyPDF2 library to read and write PDF files.
+
 Based on user input, it can split the PDF in three ways:
+
 By page range: Extracts a specific range of pages from the original PDF.
+
 By single page: Creates a new PDF containing only the specified page.
+
 By page parts: Splits the PDF into multiple PDFs, each containing a user-defined number of pages.
+
 Before run this install those 
+
 pip install kivy 
+
 pip instaal tkinter
+
 pip install kivymd 
+
 pip install PyPDF2
 
-![Screenshot (923)](https://github.com/user-attachments/assets/9d8cc9bf-648e-4fbe-93af-520cbc46d69d) ![Screenshot (922)](https://github.com/userattachments/assets/c7572127-19e0-4491-afde-5fa31417afea) ![Screenshot (924)](https://github.com/user-attachments/assets/d50b27b3-e163-4661-ae61-909f0952a21f)
+ ![Screenshot (924)](https://github.com/user-attachments/assets/4268ed8d-b506-4fb1-9937-7f6d2571e80f)
+![Screenshot (923)](https://github.com/user-attachments/assets/b03bff85-9081-4cbf-8a4b-7defd69fac7e)
+![Screenshot (922)](https://github.com/user-attachments/assets/f6c4ac77-7c57-4a73-b186-0de61ad40e03)
+
 
 Select File: This button allows you to browse and select a PDF file you want to split.
 
